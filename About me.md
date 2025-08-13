@@ -1,10 +1,57 @@
-- 👋 Hi, My name's Alberto Claros 
-- 👀 I’m interested in learning about coding in JAVA and finding the One Piece
-- 🌱 I’m currently learning DAM
-- 📫 How to reach me on https://www.linkedin.com/in/alberto-claros-7570481ab?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Blc8q0IkkSdSwxJFG0ACsFg%3D%3D
-- ⚡ Fun fact: I have eleven tattoos in black work and i benchpress 115 kg 
+# ​ Hola, soy **Alberto Claros**
 
-<!---
-albertocll/albertocll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Estudiante de **Desarrollo de Aplicaciones Multiplataforma**  
+🚀 Apasionado por el código limpio, la eficiencia y la mejora continua
+
+---
+
+## ​ Sobre mí
+- 🎯 Escribo código claro, funcional y sostenible.
+- 📚 Me manejo bien con **Java**, **JavaScript**, **SQL**, **CSS**, **Tailwind**, **Git** y **Github**.
+- 🏋️‍♂️ Practico fitness regularmente: he aprendido disciplina, constancia y resiliencia—valores que aplico al código.
+- 🕹 Disfruto del anime, manga, videojuegos y juegos de mesa.
+- 🔭 En los próximos meses, me centraré en aprender **React**, **Node.js** y **Spring Boot**, para reforzar mis habilidades full-stack.
+- 💪 Persistente y con mentalidad tradicional: valoro la excelencia técnica y el método clásico de hacer bien las cosas, con visión de futuro.
+
+---
+
+## ​ Tecnologías y herramientas
+
+**Lenguajes y frameworks dominados:**  
+`Java` · `JavaScript` · `SQL` · `CSS` · `Tailwind`
+
+**Control de versiones y plataforma:**  
+`Git` · `GitHub`
+
+**Conocimientos intermedios o en evaluación:**  
+*Docker (uso básico), PHP (referencial), Python (introductorio)*
+
+**En camino de aprender (2025–2026):**  
+`React` · `Node.js` · `Spring Boot`
+
+---
+
+## ​ Proyectos destacados
+
+- **Gestor de Biblioteca en Java**  
+  Proyecto back-end en Java con manejo de ficheros y estructura MVC; incorpora SQL para persistencia.
+  https://github.com/albertocll/PT6_Maven_Practica.git
+
+- **Portfolio Web con Tailwind**  
+  Front-end responsive usando `HTML`, `CSS` y `Tailwind`. Incluye sección de proyectos y contacto dinámico.
+
+- **Mini-juego Snake y Pong JavaScript**  
+  Juego interactivo en navegador (canvas o DOM), probando lógica, eventos y gestión del estado.
+  https://github.com/albertocll/Lenguaje-de-Marcas-1DAM-Trimestre1.git
+
+---
+
+## ​ ¿Cómo contactarme?
+
+- 📧 **albertoclaroslaboral@gmail.com**  
+- 💼 [LinkedIn – Alberto Claros](www.linkedin.com/in/alberto-claros-lópez-7570481ab)
+
+---
+
+> *"La disciplina que aplico en el gym la aplico al desarrollo: un día a la vez, mejorando un poco cada día con código sólido."*
+
