@@ -29,7 +29,6 @@ por el arte ASCII real en cuanto se ejecuta tras el primer push.
 
 Sevilla. DAM recién terminado. Busco mi primer puesto como backend junior, en Sevilla o en remoto, y hasta que lo consiga sigo programando como si ya lo tuviera: con disciplina y sin entregar nada a medias.
 
-![](https://img.shields.io/badge/-%E2%96%AA-CAD8BA)
 ## Lo que he construido
 
 **[Vitalmas](https://github.com/albertocll/Vitalmas)**: Gestión médica full-stack. Spring Boot 3.5 + PostgreSQL por detrás, React + Vite por delante, todo en Docker. 97 commits, release v2.0.0, desplegado en Railway, con otro desarrollador metiendo pull requests de verdad.
@@ -42,12 +41,10 @@ Sevilla. DAM recién terminado. Busco mi primer puesto como backend junior, en S
 
 </div>
 
-![](https://img.shields.io/badge/-%E2%96%AA-BAC18F)
 ## Fuera del código
 
 Entreno fuerza cinco días a la semana, sin excusas ni días a medias. La misma disciplina la aplico al código. El resto del tiempo: deportes de riesgo, videojuegos de aventura y lucha, anime, pelis de terror y algo de manualidades.
 
 ---
 
-![](https://img.shields.io/badge/-%E2%96%AA-B6AD6A)
 📫 albertoclaroslaboral@gmail.com · [LinkedIn](https://linkedin.com/in/albertocll/)
