@@ -2,7 +2,7 @@
 
 # Alberto Claros López
 
-### Backend Junior · Java/Spring Boot · C#/.NET
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Backend+Junior;Java+%C2%B7+Spring+Boot;C%23+%C2%B7+.NET;Buscando+mi+primer+equipo)](https://git.io/typing-svg)
 
 ![Java](https://img.shields.io/badge/Java-FF6B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0084FF?style=for-the-badge&logo=springboot&logoColor=white)
@@ -17,6 +17,23 @@
 
 ---
 
+```bash
+$ whoami
+alberto-claros-lopez
+
+$ rol
+Backend Junior Developer
+
+$ ubicacion
+Sevilla, España (abierto a remoto)
+
+$ stack
+Java · Spring Boot · C# · .NET · Angular · React
+
+$ objetivo
+./buscar --primer-puesto --sevilla --remoto
+```
+
 Sevilla. DAM recién terminado. Busco mi primer puesto como backend junior, en Sevilla o en remoto, y hasta que lo consiga sigo programando como si ya lo tuviera: con disciplina y sin entregar nada a medias.
 
 ## Lo que he construido
@@ -24,6 +41,13 @@ Sevilla. DAM recién terminado. Busco mi primer puesto como backend junior, en S
 **[Vitalmas](https://github.com/albertocll/Vitalmas)** — Gestión médica full-stack. Spring Boot 3.5 + PostgreSQL por detrás, React + Vite por delante, todo en Docker. 97 commits, release v2.0.0, desplegado en Railway, con otro desarrollador metiendo pull requests de verdad.
 
 **[NeonStrike2D](https://github.com/albertocll/NeonStrike2D)** — Shooter cooperativo 2D en Unity 6 + C#, con backend propio en ASP.NET Core y multijugador en tiempo real por WebSocket. Mi Trabajo de Fin de Grado, defensa el 2 de junio. 295 commits y subiendo, 27 issues abiertos porque lo sigo ampliando, no porque esté parado.
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=albertocll&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6B00&icon_color=0084FF&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertocll&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6B00&text_color=C9D1D9" />
+
+</div>
 
 ## Fuera del código
 
