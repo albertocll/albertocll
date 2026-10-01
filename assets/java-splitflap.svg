@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="234" height="64" viewBox="0 0 234 64">
+<rect x="0" y="0" width="234" height="64" fill="#0D1117"/>
+<g transform="translate(0,0)">
+<clipPath id="clip0"><rect x="0" y="0" width="54" height="64" rx="6" ry="6"/></clipPath>
+<rect x="0" y="0" width="54" height="64" rx="6" ry="6" fill="#A67E48" stroke="#0D1117" stroke-width="2"/>
+<g clip-path="url(#clip0)">
+<g id="reel0">
+<text x="27.0" y="45.0" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-weight="700" font-size="34" fill="#F5E9DA">K</text>
+<rect x="0" y="0" width="54" height="64" fill="none" />
+<text x="27.0" y="109.0" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-weight="700" font-size="34" fill="#F5E9DA">E</text>
+<rect x="0" y="64" width="54" height="64" fill="none" />
+<text x="27.0" y="173.0" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-weight="700" font-size="34" fill="#F5E9DA">M</text>
+<rect x="0" y="128" width="54" height="64" fill="none" />
+<text x="27.0" y="237.0" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-weight="700" font-size="34" fill="#F5E9DA">J</text>
+<rect x="0" y="192" width="54" height="64" fill="none" />
+<animateTransform attributeName="transform" attributeType="XML" type="translate" calcMode="discrete" dur="3.20s" begin="0.00s" repeatCount="indefinite" keyTimes="0.0000;0.2000;0.4000;0.6000;0.8000;1" values="0,0 ; 0,-64 ; 0,-128 ; 0,-192 ; 0,-192 ; 0,-192"/>
+</g>
+</g>
+<line x1="2" y1="32.0" x2="52" y2="32.0" stroke="#0D1117" stroke-width="2"/>
+<rect x="0" y="0" width="54" height="64" rx="6" ry="6" fill="none" stroke="#0D1117" stroke-width="1.5"/>
+</g>
+<g transform="translate(60,0)">
+<clipPath id="clip1"><rect x="0" y="0" width="54" height="64" rx="6" ry="6"/></clipPath>
+<rect x="0" y="0" width="54" height="64" rx="6" ry="6" fill="#8D574A" stroke="#0D1117" stroke-width="2"/>
+<g clip-path="url(#clip1)">
+<g id="reel1">
+<text x="27.0" y="45.0" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-weight="700" font-size="34" fill="#F5E9DA">U</text>
+<rect x="0" y="0" width="54" height="64" fill="none" />
+<text x="27.0" y="109.0" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-weight="700" font-size="34" fill="#F5E9DA">B</text>
+<rect x="0" y="64" width="54" height="64" fill="none" />
+<text x="27.0" y="173.0" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-weight="700" font-size="34" fill="#F5E9DA">C</text>
+<rect x="0" y="128" width="54" height="64" fill="none" />
+<text x="27.0" y="237.0" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-weight="700" font-size="34" fill="#F5E9DA">A</text>
+<rect x="0" y="192" width="54" height="64" fill="none" />
+<animateTransform attributeName="transform" attributeType="XML" type="translate" calcMode="discrete" dur="3.38s" begin="0.18s" repeatCount="indefinite" keyTimes="0.0000;0.2000;0.4000;0.6000;0.8000;1" values="0,0 ; 0,-64 ; 0,-128 ; 0,-192 ; 0,-192 ; 0,-192"/>
+</g>
+</g>
+<line x1="2" y1="32.0" x2="52" y2="32.0" stroke="#0D1117" stroke-width="2"/>
+<rect x="0" y="0" width="54" height="64" rx="6" ry="6" fill="none" stroke="#0D1117" stroke-width="1.5"/>
+</g>
+<g transform="translate(120,0)">
+<clipPath id="clip2"><rect x="0" y="0" width="54" height="64" rx="6" ry="6"/></clipPath>
+<rect x="0" y="0" width="54" height="64" rx="6" ry="6" fill="#A67E48" stroke="#0D1117" stroke-width="2"/>
+<g clip-path="url(#clip2)">
+<g id="reel2">
+<text x="27.0" y="45.0" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-weight="700" font-size="34" fill="#F5E9DA">R</text>
+<rect x="0" y="0" width="54" height="64" fill="none" />
+<text x="27.0" y="109.0" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-weight="700" font-size="34" fill="#F5E9DA">D</text>
+<rect x="0" y="64" width="54" height="64" fill="none" />
+<text x="27.0" y="173.0" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-weight="700" font-size="34" fill="#F5E9DA">L</text>
+<rect x="0" y="128" width="54" height="64" fill="none" />
+<text x="27.0" y="237.0" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-weight="700" font-size="34" fill="#F5E9DA">V</text>
+<rect x="0" y="192" width="54" height="64" fill="none" />
+<animateTransform attributeName="transform" attributeType="XML" type="translate" calcMode="discrete" dur="3.56s" begin="0.36s" repeatCount="indefinite" keyTimes="0.0000;0.2000;0.4000;0.6000;0.8000;1" values="0,0 ; 0,-64 ; 0,-128 ; 0,-192 ; 0,-192 ; 0,-192"/>
+</g>
+</g>
+<line x1="2" y1="32.0" x2="52" y2="32.0" stroke="#0D1117" stroke-width="2"/>
+<rect x="0" y="0" width="54" height="64" rx="6" ry="6" fill="none" stroke="#0D1117" stroke-width="1.5"/>
+</g>
+<g transform="translate(180,0)">
+<clipPath id="clip3"><rect x="0" y="0" width="54" height="64" rx="6" ry="6"/></clipPath>
+<rect x="0" y="0" width="54" height="64" rx="6" ry="6" fill="#8D574A" stroke="#0D1117" stroke-width="2"/>
+<g clip-path="url(#clip3)">
+<g id="reel3">
+<text x="27.0" y="45.0" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-weight="700" font-size="34" fill="#F5E9DA">S</text>
+<rect x="0" y="0" width="54" height="64" fill="none" />
+<text x="27.0" y="109.0" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-weight="700" font-size="34" fill="#F5E9DA">B</text>
+<rect x="0" y="64" width="54" height="64" fill="none" />
+<text x="27.0" y="173.0" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-weight="700" font-size="34" fill="#F5E9DA">Q</text>
+<rect x="0" y="128" width="54" height="64" fill="none" />
+<text x="27.0" y="237.0" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-weight="700" font-size="34" fill="#F5E9DA">A</text>
+<rect x="0" y="192" width="54" height="64" fill="none" />
+<animateTransform attributeName="transform" attributeType="XML" type="translate" calcMode="discrete" dur="3.74s" begin="0.54s" repeatCount="indefinite" keyTimes="0.0000;0.2000;0.4000;0.6000;0.8000;1" values="0,0 ; 0,-64 ; 0,-128 ; 0,-192 ; 0,-192 ; 0,-192"/>
+</g>
+</g>
+<line x1="2" y1="32.0" x2="52" y2="32.0" stroke="#0D1117" stroke-width="2"/>
+<rect x="0" y="0" width="54" height="64" rx="6" ry="6" fill="none" stroke="#0D1117" stroke-width="1.5"/>
+</g>
+</svg>
