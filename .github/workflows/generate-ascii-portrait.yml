@@ -12,15 +12,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Preparar Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: 'stable'
+
       - name: Instalar ascii-image-converter
-        run: |
-          curl -L -o aic.tar.gz https://github.com/TheZoraiz/ascii-image-converter/releases/latest/download/ascii-image-converter_Linux-64bit.tar.gz
-          tar -xzf aic.tar.gz
-          sudo mv ascii-image-converter /usr/local/bin/
+        run: go install github.com/TheZoraiz/ascii-image-converter@latest
 
       - name: Generar arte ASCII a partir de perfil/profile.jpg
         run: |
-          ascii-image-converter perfil/profile.jpg --width 60 -C > ascii_output.txt
+          echo "$(go env GOPATH)/bin" >> "$GITHUB_PATH"
+          "$(go env GOPATH)/bin/ascii-image-converter" perfil/profile.jpg --width 60 -C > ascii_output.txt
 
       - name: Insertar el resultado en README.md
         run: |
