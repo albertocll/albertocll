@@ -9,6 +9,8 @@ on:
 jobs:
   ascii-portrait:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
@@ -23,7 +25,10 @@ jobs:
       - name: Generar arte ASCII a partir de perfil/profile.jpg
         run: |
           echo "$(go env GOPATH)/bin" >> "$GITHUB_PATH"
-          "$(go env GOPATH)/bin/ascii-image-converter" perfil/profile.jpg --width 60 -C > ascii_output.txt
+          "$(go env GOPATH)/bin/ascii-image-converter" perfil/profile.jpg --width 60 > ascii_output.txt
+          echo "Lineas generadas: $(wc -l < ascii_output.txt)"
+          echo "--- primeras lineas ---"
+          head -5 ascii_output.txt
 
       - name: Insertar el resultado en README.md
         run: |
